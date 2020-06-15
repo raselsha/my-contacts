@@ -1,0 +1,13 @@
+@media(max-width:320px){
+	header{
+		padding-top:5px;
+	}
+	.container{
+		width:310px;
+	}
+	.logo h2{
+		font-size:38px;
+		line-height:54px;
+	}
+
+}

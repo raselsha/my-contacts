@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'sui_generisregular';
+    src: url('sui_generis-webfont.eot');
+    src: url('sui_generis-webfont.eot?#iefix') format('embedded-opentype'),
+         url('sui_generis-webfont.woff2') format('woff2'),
+         url('sui_generis-webfont.woff') format('woff'),
+         url('sui_generis-webfont.ttf') format('truetype'),
+         url('sui_generis-webfont.svg#sui_generisregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+*{margin: 0;padding: 0;}
+
+body{
+ margin:0px 5px;
+ font-family: Verdana,sans-serif;
+  font-size: 12px;
+  line-height: 18px;
+  color: #336B7C;
+  background:url('bg_1.jpg')no-repeat scroll 0 0 #6D9298;
+  background-size:cover;  
+  
+}
+a{text-decoration:none;color:#4C9ED9;}
+a:hover{color:#336B7C;text-decoration:underline}
+p{padding-bottom: 10px;}
+header{text-align: center;padding-top:70px;}
+.logo h2{font-family:sui_generisregular;font-size:48px;color:#336C7C;line-height:68px;text-shadow: 1px 1px 1px #114251;}
+.container{width:340px; margin:0 auto;}
+.form{background: #fff; padding: 10px;}
+.notification{text-align:center;}
+.notification .error{background:#F5D1D2;display:block;padding:10px;}
+.notification .success{background:#D8F8E2;display:block;padding:10px;}
+form{padding:10px 0px;}
+fieldset{padding: 10px;border:1px solid #eee;}
+legend{font-size:24px;font-weight:bold;color:#6AABBE;margin-bottom:20px}
+.label{padding:15px 0px;font-size:14px;font-weight:600;color:#80B0BE;}
+input[type="text"],input[type="password"]{padding:10px 5px;width:96%;border:1px solid #eee;color:#666;font-size:15px;}
+input[type="submit"]{margin:20px 0px 0px;padding:10px;width:100%;font-size:16px;background:#336C7C;border:1px solid #336C7C; color:#fff;font-weight: bold;}
+input[type="submit"]:hover{background:#114251;border:1px solid #114251;cursor:pointer; }
+.form_link{padding-bottom: 15px;}
+.error{color:#CC1B1D;}
+.success{color:#3EDD6E;}
+
+.left{float: left}
+.right{float:right}
+.footer{text-align:center;padding-top:20px;color: #fff;}
+.footer a{color:#fff;font-size:16px;margin-right:30px }
+.footer a:hover{text-decoration:underline;}
+

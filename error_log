@@ -1,0 +1,14 @@
+[19-Apr-2016 11:50:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/shahahbr/public_html/contacts_beta/application/models/Forgot_password_model.php on line 36
+[18-May-2016 03:56:11 Etc/GMT] PHP Parse error:  syntax error, unexpected 'OUTFILE' (T_STRING) in /home/shahahbr/public_html/my_contacts/application/controllers/Home.php on line 353
+[23-May-2016 12:10:05 Etc/GMT] PHP Fatal error:  Call to a member function csv_from_result() on a non-object in /home/shahahbr/public_html/my_contacts/application/models/Home_model.php on line 24
+[23-May-2016 12:24:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/shahahbr/public_html/my_contacts/application/models/Home_model.php on line 23
+[23-May-2016 12:35:56 Etc/GMT] PHP Fatal error:  Call to undefined function now() in /home/shahahbr/public_html/my_contacts/application/models/Home_model.php on line 28
+[24-May-2016 00:52:50 Etc/GMT] PHP Fatal error:  Call to undefined function now() in /home/shahahbr/public_html/my_contacts/application/models/Home_model.php on line 28
+[24-May-2016 10:01:51 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/shahahbr/public_html/my_contacts/application/models/Home_model.php on line 142
+[24-May-2016 10:02:21 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/shahahbr/public_html/my_contacts/application/models/Home_model.php on line 142
+[24-May-2016 10:02:22 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/shahahbr/public_html/my_contacts/application/models/Home_model.php on line 142
+[24-May-2016 10:02:26 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/shahahbr/public_html/my_contacts/application/models/Home_model.php on line 142
+[24-May-2016 10:28:10 Etc/GMT] PHP Parse error:  syntax error, unexpected 'ehco' (T_STRING) in /home/shahahbr/public_html/my_contacts/application/models/Home_model.php on line 145
+[24-May-2016 11:23:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/shahahbr/public_html/my_contacts/application/models/Home_model.php on line 145
+[24-May-2016 11:33:34 Etc/GMT] PHP Fatal error:  Call to undefined function get() in /home/shahahbr/public_html/my_contacts/application/models/Home_model.php on line 149
+[25-May-2016 06:53:00 Etc/GMT] PHP Fatal error:  Class 'Home_model' not found in /home/shahahbr/public_html/my_contacts/system/core/Loader.php on line 305
